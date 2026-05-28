@@ -1,0 +1,32 @@
+aid: metropolitan-museum-of-art
+name: Metropolitan Museum of Art
+description: "Met Museum of Art"
+url: https://metmuseum.github.io/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Art & Design"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Art And Design
+  - Public APIs
+apis:
+  - name: Metropolitan Museum of Art
+    description: "Met Museum of Art"
+    humanURL: https://metmuseum.github.io/
+    baseURL: https://metmuseum.github.io/
+    tags:
+      - Art And Design
+    properties:
+      - type: Documentation
+        url: https://metmuseum.github.io/
+common:
+  - type: Website
+    url: https://metmuseum.github.io/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
