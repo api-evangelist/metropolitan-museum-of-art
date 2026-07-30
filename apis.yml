@@ -1,4 +1,16 @@
 aid: metropolitan-museum-of-art
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/metropolitan-museum-of-art.png
 name: Metropolitan Museum of Art
 description: "Met Museum of Art"
 url: https://metmuseum.github.io/
