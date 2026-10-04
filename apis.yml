@@ -33,13 +33,13 @@ x-category: "Art & Design"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Art And Design
   - Public APIs
+  - Art
+  - Museums
 apis:
   - name: Metropolitan Museum of Art
     description: "Met Museum of Art"
     humanURL: https://metmuseum.github.io/
-    baseURL: https://metmuseum.github.io/
     tags:
       - Art And Design
     properties:
@@ -53,3 +53,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Art And Design
