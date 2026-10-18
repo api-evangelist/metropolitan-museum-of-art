@@ -40,7 +40,8 @@ apis:
   - name: Metropolitan Museum of Art
     description: "Met Museum of Art"
     humanURL: https://metmuseum.github.io/
-    tags:
+    tags: []
+    tags_raw:
       - Art And Design
     properties:
       - type: Documentation
